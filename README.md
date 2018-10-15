@@ -1,5 +1,4 @@
 # React-Project1
-React and Redu
 
 Assignment 1:
 Instruction:
