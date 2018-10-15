@@ -1,4 +1,4 @@
-# React-Project1
+# React/Redux
 
 Assignment 1:
 
