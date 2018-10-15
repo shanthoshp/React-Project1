@@ -1,6 +1,7 @@
 # React-Project1
 
 Assignment 1:
+
 Instruction:
 - Create TWO new components: UserInput and UserOutput
 - UserInput should hold an input element, UserOutput two paragraphs
